@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nlgabe
 - 👀 I’m interested in Sci-Fi, Fantasy & Spaceflight
-- 🌱 I’m currently learning Kotlin, Java & HTML
+- 💻 I’m currently learning Software Development at 42Heilbronn
